@@ -1,0 +1,47 @@
+p, h1, h2 {
+  margin: 10px;
+}
+
+footer {
+  margin-bottom: 50px;
+}
+
+.tj {
+  text-align: justify;
+}
+
+.rnd_img {
+  border-radius: 50%;
+}
+
+.small {
+  width: 150px;
+  height: 150px;
+}
+
+.large {
+  width: 400px;
+  height: 400px;
+}
+
+.row {
+  margin: 100px 0px 0px 0px;
+}
+
+.divider {
+  border-bottom: 2px #EEE solid;
+}
+
+.list_style {
+  padding: 0px;
+  display: inline;
+}
+
+.listi_style {
+  float: left;
+  padding-right: 20px;
+}
+
+.rm_li_style {
+  list-style: none;
+}
